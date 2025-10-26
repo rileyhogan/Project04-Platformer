@@ -13,8 +13,8 @@ A simple 2D platformer.
 - New terrain tileset
 
 ## References
-Player sprites and terrain tileset courtesy of [Craftpix](https://free-game-assets.itch.io/)
-Additional sprites by [Kenney.nl](https://kenney.nl/assets/pixel-platformer)
+- Player sprites and terrain tileset courtesy of [Craftpix](https://free-game-assets.itch.io/)
+- Additional sprites by [Kenney.nl](https://kenney.nl/assets/pixel-platformer)
 
 ## Future Development
 To be determined!
