@@ -1,7 +1,7 @@
 # Project-04-2D-Platformer
 Created for FA25-BL-MSCH-C220-8879
 
-Description
+## Description
 A simple 2D platformer.
 
 ## Implementation
